@@ -28,12 +28,12 @@
   }
   
   .emoji-icon {
-    width: 50px;
+    width: 45px;
   }
   
   @media screen and (min-width: 768px) {
     .emoji-icon {
-      width: 100px;
+      width: 90px;
     }
   }
   
